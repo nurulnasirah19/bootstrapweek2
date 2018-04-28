@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+<div class="container">
+    <title> Hello, World!</title>
+    <h2> Hello, World!<small> Secondary text </small></h2>
+</div>
+</head>
+<br>
+<body>
+	<div class="container">
+	<p class="lead"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br>
+<p> <h6> <strong><mark>Lorem ipsum dolor sit amet,</mark></strong> consectetur adipisicing elit, sed do eiusmod tempor incididunt <del>ut labore et dolore magna aliqua.</del> Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h6></p>
+<hr>
+<h6> <p class="text-left"> Left aligned text </p></h6>
+<h6> <p class="text-center"> Center aligned text </p></h6>
+<h6> <p class="text-right"> Right aligned text</p></h6>
+<h6> <p class="text-justify"> Justified aligned text. </p></h6>
+<h6> <p class="text-nowrap">No wrap text.</p></h6>
+<br>
+<br>
+<br>
+<p class="text-right"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. </p>
+<p class="text-secondary text-right"> Quote by <em> John Doe</em> - </p>
+
+
+<br>
+<br>
+<br> 
+<ul class= "list-unstyled"> 
+       <li> One </li>
+       <li> Two </li>
+       <li> Three </li>
+       <li> Four</li>
+       <li> Five </li>
+   </ul>
+
+
+<ul class= "list-inline">
+     <li class= "list-inline-item"> One </li>
+     <li class= "list-inline-item"> Two </li>
+     <li class="list-inline-item"> Three </li>
+     <li class="list-inline-item"> Four </li>
+     <li class="list-inline-item"> Five </li> 
+</ul>
+
+<p> <code>&lt;h1&gt;</code> Heading text  &lt;/h1&gt;</p>
+Change directory with <kbd>cd </kbd> To edit settings, press  <kbd> ctrl + , </kbd>
+
+<br>
+<hr>
+
+<p class="text-info"> Hello World </p>
+<p class="text-success"> Hello World </p>
+<p class="text-info"> Hello World </p>
+<p class= "text-warning"> Hello World</p>
+<p class= "text-danger"> Hello World </p>
+<p class="text-secondary"> Hello World </p>
+
+<p class="bg-primary text-light"> Hello World </p>
+<p class="bg-success"> Hello World</p>
+<p class="bg-info"> Hello World</p>
+<p class= "bg-warning "> Hello World</p>
+<p class= "bg-danger "> Hello World</p>
+<p class="bg-muted"> Hello World</p>
+<br>
+
+<hr>
+
+<button type="button" class="btn btn-outline-secondary">Link</button>
+<button type="button" class="btn btn-outline-secondary">Button</button>
+<button type="button" class="btn btn-outline-secondary">Submit</button>
+<button type="button" class="btn btn-outline-secondary">Default</button>
+<button class="btn btn-info"> Primary </button>
+<button class="btn btn-success"> Success </button>
+<button class="btn btn-info"> Info </button>
+<button class="btn btn-warning"> Warning</button>
+<button class="btn btn-danger"> Danger </button>
+<button type="button" class="btn btn-link">Link</button>
+
+</div>
+</body>
+</html>
